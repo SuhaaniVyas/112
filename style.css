@@ -1,0 +1,30 @@
+body
+{
+  color: goldenrod;
+  background-color:lightgoldenrodyellow;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 5px dashed goldenrod;
+  width: 350px;
+  height: 300px; 
+}
+#result_hj_name ,#result_hj_name2  
+{
+  color:goldenrod;
+}
+.hj_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading {
+  background-color: wheat;
+}
